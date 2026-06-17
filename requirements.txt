@@ -1,3 +1,5 @@
+setuptools>=68.0.0
+wheel
 flask==3.0.3
 gunicorn==23.0.0
 joblib==1.4.2
